@@ -1,0 +1,7 @@
+c:\users\brk\documents\visual studio 2010\Projects\spv000\spv000\bin\Debug\spv000.exe
+c:\users\brk\documents\visual studio 2010\Projects\spv000\spv000\bin\Debug\spv000.pdb
+c:\users\brk\documents\visual studio 2010\Projects\spv000\spv000\obj\x86\Debug\spv000.Form1.resources
+c:\users\brk\documents\visual studio 2010\Projects\spv000\spv000\obj\x86\Debug\spv000.Properties.Resources.resources
+c:\users\brk\documents\visual studio 2010\Projects\spv000\spv000\obj\x86\Debug\spv000.exe
+c:\users\brk\documents\visual studio 2010\Projects\spv000\spv000\obj\x86\Debug\spv000.pdb
+C:\Users\brk\Documents\Visual Studio 2010\Projects\spv000\spv000\obj\x86\Debug\spv000.csproj.GenerateResource.Cache
