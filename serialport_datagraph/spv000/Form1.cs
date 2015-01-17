@@ -213,18 +213,18 @@ namespace spv000
 
             double y1 = data[0];
             listPointsOne.Add(x, y1);
-            mycurveone = mypane.AddCurve(null, listPointsOne, Color.Blue, SymbolType.None);
+            mycurveone = mypane.AddCurve(null, listPointsOne, Color.Blue, SymbolType.Square);
 
 
             double y2 = data[1];
             listPointstwo.Add(x, y2);
-            mycurvetwo = mypane.AddCurve(null, listPointstwo, Color.Red, SymbolType.None);
+            mycurvetwo = mypane.AddCurve(null, listPointstwo, Color.Red, SymbolType.Circle);
 
 
 
             double y3 = data[2];
             listPointsthree.Add(x, y3);
-            mycurvethree = mypane.AddCurve(null, listPointsthree, Color.Green, SymbolType.None);
+            mycurvethree = mypane.AddCurve(null, listPointsthree, Color.Green, SymbolType.Plus);
 
 
             zedGraphControl1.Invalidate();
